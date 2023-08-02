@@ -1,0 +1,7 @@
+Line follower Robot is a very simple robot that follows a line, either a black line or a white line. These type of robots are very simple to build and is often the first choice for beginners who are getting 
+started with robotics. Basically, there are two types of line follower robots: one is a black line follower which follows the black line and the second is a white line follower which follows the white line. 
+Line follower actually senses the line and follows it.
+
+Building a Line follower robot using Arduino is interesting. The line follower robot senses a black line by using a sensor and then sends the signal to Arduino. Then Arduino drives the motor according to 
+sensors' output.
+
